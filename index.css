@@ -14,4 +14,6 @@ padding: 6px 12px;
 }
 .button:active{
     background-color: hsl(211, 100%, 35%);
+    border: 1px solid;
+    box-sizing: 4px;
 }
