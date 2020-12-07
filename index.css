@@ -17,3 +17,36 @@ padding: 6px 12px;
     border: 1px solid;
     box-sizing: 4px;
 }
+.small{
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 4px 8px;
+    border: 1px solid;
+
+}
+.larch{
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.small{
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.ok{
+    background-color: hsl(0, 100%, 50%);
+    padding-right: 8px 16px ;
+    border: 1px solid;
+
+}
+.ok:hover{
+    background-color: hsl(47, 100%, 50%);
+    padding-right: 8px 16px ;
+    border: 1px solid;
+}
+.diseible:disabled{
+    border: 1px solid;
+    padding: 8px 16px;
+    background-color: hsl(380, 100%, 50%);
+}
